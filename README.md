@@ -31,12 +31,14 @@ I'm a UI developer who is passionate about making mobile and web apps. Some tech
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Neeraj kumar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=unikneeraj&show_icons=true&hide_border=true" />
+## GitHub Stats
 
-</details>
+<p><img src="https://komarev.com/ghpvc/?username=unikneeraj&label=Profile%20views&color=0e75b6&style=flat" alt="unikneeraj" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unikneeraj" alt="unikneeraj" /></a> </p>
+
+<div width="100%" align="left" ><img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=unikneeraj&show_icons=true&locale=en&layout=compact" alt="unikneeraj" />&nbsp;&nbsp;&nbsp;<img width="32%"  align="center" src="https://github-readme-stats.vercel.app/api?username=unikneeraj&show_icons=true&locale=en" alt="unikneeraj" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unikneeraj&" width="32%" alt="unikneeraj" /></div>
 
 
 [webdevplaylist]: https://codingvibes.medium.com/
