@@ -3,7 +3,7 @@
 UI developer who is passionate about making mobile and web apps. Some technologies I enjoy working with include HTML, SCSS, Javascipt, MERN Stack (Mongodb, Express, React and Node). I also enjoy wireframing, ui, ux, and design in general. 
 
 - 🌱 Currently learning everything 🤣 including Guitar 🎸 (Looks tougher than programming, still trying 😊 )
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source projects.
 
 ### Connect with me:
 
